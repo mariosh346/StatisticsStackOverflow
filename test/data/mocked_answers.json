@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "owner": {
+        "reputation": 2326,
+        "user_id": 1932379,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/96c2b1a992178ce12964cc6e3d3623c0?s=128&d=identicon&r=PG",
+        "display_name": "Rainer Plumer",
+        "link": "https://stackoverflow.com/users/1932379/rainer-plumer"
+      },
+      "is_accepted": true,
+      "score": 1,
+      "last_activity_date": 1540218867,
+      "last_edit_date": 1540218867,
+      "creation_date": 1540137398,
+      "answer_id": 52917148,
+      "question_id": 52916043
+    },
+    {
+      "owner": {
+        "reputation": 7310,
+        "user_id": 1911755,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://i.stack.imgur.com/1tbOT.jpg?s=128&g=1",
+        "display_name": "Raphael Rafatpanah",
+        "link": "https://stackoverflow.com/users/1911755/raphael-rafatpanah"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1540218583,
+      "last_edit_date": 1540218583,
+      "creation_date": 1540149659,
+      "answer_id": 52918984,
+      "question_id": 5706837
+    },
+    {
+      "owner": {
+        "reputation": 450,
+        "user_id": 2598735,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/4nXze.png?s=128&g=1",
+        "display_name": "WillEnsaba",
+        "link": "https://stackoverflow.com/users/2598735/willensaba"
+      },
+      "is_accepted": true,
+      "score": 0,
+      "last_activity_date": 1540217236,
+      "last_edit_date": 1540217236,
+      "creation_date": 1540152538,
+      "answer_id": 52919412,
+      "question_id": 50079314
+    }
+  ],
+  "has_more": false,
+  "quota_max": 10000,
+  "quota_remaining": 9973
+}
