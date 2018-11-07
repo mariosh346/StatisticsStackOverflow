@@ -1,12 +1,12 @@
 **STATISTICS STACKOVERFLOW** 
 
 **DESCRIPTION** \
-_For a given date/time range calculate:_ \
-The total number of accepted answers. \
-The average score for all the accepted answers. \
-The average answer count per question. \
-The comment count for each of the 10 answers with the highest score. \
-Collect and return the calculated statistics in tabular, HTML or JSON format.
+_For a date/time range calculate:_ \
+-The total number of accepted answers. \
+-The average score for all the accepted answers. \
+-The average answer count per question. \
+-The comment count for each of the 10 answers with the highest score. \
+_Return the calculated statistics in tabular, HTML or JSON format._
 
 INSTALLATION PROCEDURE \
 `python setup.py install`
@@ -21,7 +21,7 @@ OUTPUT \
 Total accepted answers\
 Average score of the accepted answers\
 Average answers per question\
-Dictionary of top ten answers comment count
+Dictionary of the comment count for each of the 10 answers with the highest score
 
 TESTING\
 `python -m unittest discover -s test`
